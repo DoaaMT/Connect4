@@ -95,4 +95,7 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
         Check(IDcol,IDrow); 
     > call check function, give it coloumn and row id number, check if winner
        });
+        
+        
+ By Doaa Turkistani
 
