@@ -1,4 +1,5 @@
-<img src="Pic/ga.PNG" alt="GA">
+
+<img src="Pic/ga.png" alt="GA">
 
 
 # About the game 
