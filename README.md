@@ -62,6 +62,9 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
 - As a user, I should not be able to continue playing once I win, lose, or tie
 - As a user, I should be able to play the game again without refreshing the page (after finishing the game they can restart the game)
 
+
+# Pictures for the game
+
 <img src="Pic/Capture0.PNG" alt="Capture 1">
 <img src="Pic/Capture1.PNG" alt="Capture 2">
 <img src="Pic/Capture2.PNG" alt="Capture 3">
@@ -70,7 +73,8 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
 <img src="Pic/Capture5.PNG" alt="Capture 6">
 
 
-# Describe how you solved for the winner 
+# How i solved the winner 
+
 - I made an empty array for each column.
 - for each click the arrays will fills with the player variable .
 - for each round will check vertically, horizontally and diagonally.
@@ -78,7 +82,7 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
 
 
 
-# Describe how some of your favorite functions work 
+# How my favorite functions work 
 
 - $('#Restart').click(function() { 
         location.reload();
@@ -96,6 +100,13 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
     > call check function, give it coloumn and row id number, check if winner
        });
         
-        
+
+# This is the link of the game.. Have fun !
+> https://doaamt.github.io/Connect4/
+
+
+
+
+
  By Doaa Turkistani 
 

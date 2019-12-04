@@ -10,7 +10,8 @@ window.onload = function () {
         imageAlt: 'Welcome image',
       })    
     
-      
+
+
       var IDrow; //for the row id number
       var IDcol; //for the column id number
       //this arrays will fill by the player 1 and player 2
