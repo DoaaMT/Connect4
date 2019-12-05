@@ -15,7 +15,7 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
 
 
 # Game features 
-'''
+```
  Swal.fire({
         title: "Welcome to Connect 4 game.. ",
         text: "Let's see who wins!!!",
@@ -24,7 +24,7 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
         imageHeight: 310,
         imageAlt: 'Welcome image',
       })    
-'''      
+```  
 >  when the game loads.. this alert will appear
 -the technic that i used to swich between players is so simple.. the turn will be 0 for player 1 then it's will be increment to turn 1 for player 2 then decrement again.
 - the game had a restart button that will refresh the page for a new game
