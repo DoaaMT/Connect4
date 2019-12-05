@@ -4,7 +4,7 @@ window.onload = function () {
     Swal.fire({
         title: "Welcome to Connect 4 game.. ",
         text: "Let's see who wins!!!",
-        imageUrl: "https://github.com/DoaaMT/Connect4/blob/master/Pic/c.jpg" ,
+        imageUrl: "https://githttps://raw.githubusercontent.com/DoaaMT/Connect4/master/Pic/c.jpghub.com/DoaaMT/Connect4/blob/master/Pic/c.jpg" ,
         imageWidth: 300,
         imageHeight: 310,
         imageAlt: 'Welcome image',
