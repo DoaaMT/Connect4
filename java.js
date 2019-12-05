@@ -4,7 +4,7 @@ window.onload = function () {
     Swal.fire({
         title: "Welcome to Connect 4 game.. ",
         text: "Let's see who wins!!!",
-        imageUrl: "https://githttps://raw.githubusercontent.com/DoaaMT/Connect4/master/Pic/c.jpghub.com/DoaaMT/Connect4/blob/master/Pic/c.jpg" ,
+        imageUrl: "https://raw.githubusercontent.com/DoaaMT/Connect4/master/Pic/c.jpg" ,
         imageWidth: 300,
         imageHeight: 310,
         imageAlt: 'Welcome image',
@@ -107,7 +107,7 @@ window.onload = function () {
         Swal.fire({
             title: "It's a tie !!!",
             text: 'Try again..',
-            imageUrl: src="Pic/tie.PNG" ,
+            imageUrl: src="https://raw.githubusercontent.com/DoaaMT/Connect4/master/Pic/tie.png" ,
             imageWidth: 400,
             imageHeight: 300,
             imageAlt: 'tie image',
@@ -260,7 +260,7 @@ window.onload = function () {
         Swal.fire({
             title: 'Congratulations!',
             text: 'You Win !!!',
-            imageUrl: src="Pic/win2.jpg" ,
+            imageUrl: src="https://raw.githubusercontent.com/doaamt/Connect4/master/Pic/win2.jpg" ,
             imageWidth: 400,
             imageHeight: 300,
             imageAlt: 'Win image',
