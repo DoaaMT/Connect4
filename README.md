@@ -42,7 +42,7 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
 # Future plan 
 - Artificial intelligence (Computer Plays against the player)
 - The player can choose the size of game table
-- the player can write hit name
+- the player can write his name
 - the game can count the winner score
 
 
