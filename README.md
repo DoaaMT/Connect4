@@ -98,25 +98,26 @@ $('#Restart').click(function() {
         location.reload();
     });
 ```    
-    >  when Restart button are clicked it's will reload the page.
+>  when Restart button are clicked it's will reload the page.
 
 
 ```
    $(".col").click(function(e) { 
 ```   
-    > when players clicks any where in the column <div>
-```        
-IDcol = $(this).attr("id"); 
+> when players clicks any where in the column <div>
+
+ ```
+ IDcol = $(this).attr("id"); 
 ```
-    > this .attr("id") will return the column id number 
+> this .attr("id") will return the column id number 
 ```
 IDrow=color(IDcol); 
 ```
-    > call the color function that's will colored the circle and return the Row location
+> call the color function that's will colored the circle and return the Row location
 ```
 Check(IDcol,IDrow);      });
 ```
-    > call check function, give it coloumn and row id number, check if winner
+> call check function, give it coloumn and row id number, check if winner
    
         
 
