@@ -102,7 +102,7 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
         
 
 # This is the link of the game.. Have fun !
-> https://doaamt.github.io/Connect4/
+> https://doaamt.github.io/Connect4/index.html
 
 
 
