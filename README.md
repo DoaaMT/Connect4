@@ -93,21 +93,31 @@ Left click to drop your piece,When you can connect four pieces vertically, horiz
 
 # How my favorite functions work 
 
-- $('#Restart').click(function() { 
+```
+$('#Restart').click(function() { 
         location.reload();
     });
+```    
     >  when Restart button are clicked it's will reload the page.
 
 
-- $(".col").click(function(e) {  
+```
+   $(".col").click(function(e) { 
+```   
     > when players clicks any where in the column <div>
-        IDcol = $(this).attr("id"); 
+```        
+IDcol = $(this).attr("id"); 
+```
     > this .attr("id") will return the column id number 
-        IDrow=color(IDcol); 
+```
+IDrow=color(IDcol); 
+```
     > call the color function that's will colored the circle and return the Row location
-        Check(IDcol,IDrow); 
+```
+Check(IDcol,IDrow);      });
+```
     > call check function, give it coloumn and row id number, check if winner
-       });
+   
         
 
 # This is the link of the game.. Have fun !
